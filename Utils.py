@@ -1,3 +1,4 @@
+#This file is a little repository of fundamental functions that I used in some exercises
 from collections import OrderedDict
 
 def read_fasta(filen):
