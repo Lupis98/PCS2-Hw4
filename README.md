@@ -1,2 +1,2 @@
 # PCS2-Hw4
-rosalind solutions
+Solutions to Rosalind problems
