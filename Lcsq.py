@@ -55,10 +55,6 @@ def SharedSplicedMotif(d):
 
     print(motif)
 
-
-
-
-
 if __name__ == '__main__':
 
     d = read_fasta('rosalind_lcsq.txt')
